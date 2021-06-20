@@ -1,2 +1,2 @@
-# blp
+# BLP
 Binary LegaL Product cLassifier

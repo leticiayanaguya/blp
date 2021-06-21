@@ -1,5 +1,5 @@
 # BLP
-Binary LegaL Product cLassifier
+**Binary LegaL Product cLassifier**
 
 BLP is the repository of a research work that proposes to develop a binary classifier of products through the analysis of their images and texts, such as title, description, details and attributes.
 
